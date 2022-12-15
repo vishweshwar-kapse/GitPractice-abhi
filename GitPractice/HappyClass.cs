@@ -10,5 +10,7 @@ namespace GitPractice
     {
         public int Blah { get; set; }
         public float BlahBlah { get; set; }
+
+        public int klsdfj { get; set; }
     }
 }
